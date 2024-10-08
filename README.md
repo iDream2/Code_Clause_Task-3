@@ -1,1 +1,3 @@
-# Code_Clause_Task-3
+# Clustering of Customers by studying their buying patterns
+
+Used KMeans Clustering
